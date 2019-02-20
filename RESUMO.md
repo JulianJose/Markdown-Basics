@@ -1,6 +1,3 @@
-# Markdown-Basics
-Markdown basics for beginners.
-
 ## **Este é um resumo sobre o Markdown**
 
 ### **1. Cabeçalhos:**

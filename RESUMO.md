@@ -7,11 +7,13 @@
 ### ### Cabeçalho de terceiro nível...  
 ###### ###### Cabeçalho de sexto nível
 
+
 ### **2. Textos em destaque:**
 
 **\*\*Texto em negrito\*\***
 
 *Texto em Itálico*
+
 
 ### **3. Listas:**
 
@@ -35,6 +37,7 @@ Resultado:
 1. Lista
 2. Ordenada
 
+
 ### **5. Citações:**
 
 Código:
@@ -44,6 +47,7 @@ Código:
 Resultado:
 
 > Este texto é uma citação
+
 
 ### **4. Links:**
 

@@ -18,14 +18,16 @@
 ### **3. Listas:**
 
 Código:
-        * Lista não ordenada
-         * Usando-se espaços o marcador muda
-            * Assim como este
+
+       * Lista 
+       * Não 
+       * Ordenada
+   
 Resultado:
 
-*  Lista não ordenada
-  *  Usando-se espaços o marcador muda
-    *  Assim como este
+* Lista 
+* Não 
+* Ordenada
 
 Código:
 

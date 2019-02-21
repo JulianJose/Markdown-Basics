@@ -1,2 +1,2 @@
 # Markdown-Basics
-Um resumo sobre Markdown.
+Um resumo sobre o Markdown.

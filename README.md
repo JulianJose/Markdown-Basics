@@ -1,2 +1,2 @@
 # Markdown-Basics
-Markdown basics for beginners.
+Um resumo sobre Markdown.
